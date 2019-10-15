@@ -4,4 +4,4 @@ cc
 d
 k    hh
 
-amend
+amend 1
