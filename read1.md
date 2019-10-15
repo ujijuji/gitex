@@ -3,3 +3,5 @@ bbb
 cc
 d
 k    hh
+
+amend
